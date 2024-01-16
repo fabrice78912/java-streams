@@ -5,7 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c5fa157-2361-4555-a6d7-5445dfb77d78" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amigoscode/beans/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/streams/beans/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amigoscode/beans/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/streams/beans/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amigoscode/beans/PersonDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/streams/beans/PersonDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amigoscode/examples/DistinctAndSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/streams/examples/DistinctAndSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amigoscode/examples/Filtering.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/streams/examples/Filtering.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amigoscode/examples/GettingStarted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/streams/examples/GettingStarted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amigoscode/examples/GroupingData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/streams/examples/GroupingData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amigoscode/examples/HowStreamsWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/streams/examples/HowStreamsWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amigoscode/examples/IntStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/streams/examples/IntStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amigoscode/examples/JoiningStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/streams/examples/JoiningStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amigoscode/examples/MinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/streams/examples/MinMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amigoscode/examples/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/streams/examples/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amigoscode/examples/StatisticsWithStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/streams/examples/StatisticsWithStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amigoscode/examples/TransformationsMapAndReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/streams/examples/TransformationsMapAndReduce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amigoscode/examples/TransformationsWithFlatMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/streams/examples/TransformationsWithFlatMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amigoscode/examples/UnderstandingStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/streams/examples/UnderstandingStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amigoscode/examples/WorkingWithStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/streams/examples/WorkingWithStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amigoscode/mockdata/MockData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/streams/mockdata/MockData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amigoscode/beans/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amigoscode/beans/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amigoscode/beans/PersonDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amigoscode/examples/DistinctAndSets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amigoscode/examples/Filtering.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amigoscode/examples/GettingStarted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amigoscode/examples/GroupingData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amigoscode/examples/HowStreamsWork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amigoscode/examples/IntStreams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amigoscode/examples/JoiningStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amigoscode/examples/MinMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amigoscode/examples/Sorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amigoscode/examples/StatisticsWithStreams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amigoscode/examples/TransformationsMapAndReduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amigoscode/examples/TransformationsWithFlatMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amigoscode/examples/UnderstandingStreams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amigoscode/examples/WorkingWithStreams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amigoscode/mockdata/MockData$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amigoscode/mockdata/MockData$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amigoscode/mockdata/MockData.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +72,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="JUnit.GroupingData.groupingAndCounting">
     <configuration name="Filtering.allMatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="streams" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.amigoscode.examples.*" />
+          <option name="PATTERN" value="com.streams.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.amigoscode.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.amigoscode.examples.Filtering" />
+      <option name="MAIN_CLASS_NAME" value="com.streams.examples.Filtering" />
       <option name="METHOD_NAME" value="allMatch" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -56,12 +97,12 @@
       <module name="streams" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.amigoscode.examples.*" />
+          <option name="PATTERN" value="com.streams.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.amigoscode.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.amigoscode.examples.Filtering" />
+      <option name="MAIN_CLASS_NAME" value="com.streams.examples.Filtering" />
       <option name="METHOD_NAME" value="anyMatch" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -72,12 +113,12 @@
       <module name="streams" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.amigoscode.examples.*" />
+          <option name="PATTERN" value="com.streams.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.amigoscode.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.amigoscode.examples.Filtering" />
+      <option name="MAIN_CLASS_NAME" value="com.streams.examples.Filtering" />
       <option name="METHOD_NAME" value="findAny" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -88,12 +129,12 @@
       <module name="streams" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.amigoscode.examples.*" />
+          <option name="PATTERN" value="com.streams.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.amigoscode.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.amigoscode.examples.GroupingData" />
+      <option name="PACKAGE_NAME" value="com.streams.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.streams.examples.GroupingData" />
       <option name="METHOD_NAME" value="groupingAndCounting" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -104,18 +145,25 @@
       <module name="streams" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.amigoscode.examples.*" />
+          <option name="PATTERN" value="com.streams.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.amigoscode.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.amigoscode.examples.GroupingData" />
+      <option name="MAIN_CLASS_NAME" value="com.streams.examples.GroupingData" />
       <option name="METHOD_NAME" value="simpleGrouping" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.Filtering.allMatch" />
+      <item itemvalue="JUnit.Filtering.anyMatch" />
+      <item itemvalue="JUnit.Filtering.findAny" />
+      <item itemvalue="JUnit.GroupingData.groupingAndCounting" />
+      <item itemvalue="JUnit.GroupingData.simpleGrouping" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.GroupingData.groupingAndCounting" />
@@ -137,16 +185,27 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/amigoscode/examples/Filtering.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/streams/examples/Filtering.java</url>
           <line>16</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/amigoscode/examples/Filtering.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/streams/examples/Filtering.java</url>
           <line>18</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
